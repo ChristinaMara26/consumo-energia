@@ -15,6 +15,6 @@ custo_estimado=consumo_mensal_KWh*0.75
 # --- SAÍDA ---
 print(f"aparelho {nome_aparelho}")
 print(f"Consumo estimado:{consumo_mensal_KWh:.2f} KWh/mes")
-print(f"Custo estimado R${custo_estimado:.2f} Reais")
+print(f"Custo R${custo_estimado:.2f} Reais")
 
 
